@@ -1,0 +1,1 @@
+winget install --id Microsoft.VisualStudioCode --source winget --accept-package-agreements --silent

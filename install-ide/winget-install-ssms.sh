@@ -1,0 +1,1 @@
+winget install --id Microsoft.SqlServerManagementStudio --source winget --accept-package-agreements --silent
